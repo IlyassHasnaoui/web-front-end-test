@@ -36,3 +36,15 @@ input {
 img {
 	max-width: 300px;
 }
+
+.favorite-button {
+    background-color: red;
+    color: black;
+    font-size: 16px;
+    border: groove;
+    cursor: pointer;
+}
+
+.favorite-button:hover {
+    background-color: white; 
+}
